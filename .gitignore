@@ -1,0 +1,12 @@
+# Ignore venv
+**/venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore simple baseline.ipynb
+simple_baseline.ipynb
+sample_code1.ipynb
+
+# md files
+README1.md
